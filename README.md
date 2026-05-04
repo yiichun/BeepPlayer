@@ -1,4 +1,4 @@
-🎹 BeepPlayer - 互動式鋼琴模擬器
+# BeepPlayer - 互動式鋼琴模擬器
 
 📌 專案簡介
 
